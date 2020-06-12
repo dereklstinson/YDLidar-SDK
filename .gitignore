@@ -31,3 +31,8 @@
 # IDE
 .vscode/*
 CMakeLists.txt.*
+
+
+# Build Folder
+build/*
+!build/.notes.txt
